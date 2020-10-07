@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project Pertama</string>
+    <string name="design_by_diah_fatmawati">design by Diah Fatmawati</string>
+    <string name="hello_mahasiswa_upn">Hello Mahasiswa UPN</string>
+    <string name="selamat_datang_di">Selamat datang di</string>
+    <string name="universitas_pembangunan_nasional_veteran_jawa_timur">Universitas Pembangunan Nasional Veteran Jawa Timur</string>
+    <string name="veeran">veeran</string>
+    <string name="upn">upn</string>
+</resources>
